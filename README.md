@@ -22,21 +22,24 @@
 
 - a) Main Window:
 
-    <PIC>
+![main(black)](https://github.com/user-attachments/assets/35a545c9-a9aa-4a08-9013-8d555839033a)
+
 
 - b) Saved Passwords Window:
 
-    <PIC>
+![save(black)](https://github.com/user-attachments/assets/686923cb-c1b9-4c50-bf31-793072b51f5d)
+
 
 2. Light Mode -- 
 
 - a) Main Window:
 
-    <PIC>
+![main(white)](https://github.com/user-attachments/assets/b90f0eaa-acaa-4f89-8540-7bc985626f1c)
+
 
 - b) Saved Passwords Window:
 
-    <PIC>
+![save(white)](https://github.com/user-attachments/assets/ed572344-d2b6-4d2f-9673-04b46bb5f494)
 
 
 ---
@@ -56,6 +59,26 @@ pip install cryptography
 ---
 
 ## 🚀 Installation
+1. Windows:
+   Download pypassvault from the latest release
+
+2. Linux:
+   Download PyPassVault-x86_64.AppImage from the latest release
+   ```bash
+    chmod +x PyPassVault-x86_64.AppImage
+   ./PyPassVault-x86_64.AppImage
+   ```
+3. Via Python:
+- Clone the repository
+  ```bash
+  git clone https://github.com/DevManoj96/PyPassVault.git
+  cd PyPassVault
+  ```
+- Run the program
+  ```bash
+  python3 pypassvault.py
+  ```
+
 
 ---
 
